@@ -5,7 +5,7 @@ body {
     align-items: center;
     justify-content: center;
     background: #242a42;
-    background-image: url("mute_icon_white_transparent.png");
+    background-image: url("images/mute_icon_white_transparent.png");
     background-size: 40%;
     background-repeat: no-repeat;
     background-position: center;
@@ -20,7 +20,7 @@ body {
 }
 
 ul {
-    background-image: url("bg2.png");
+    background-image: url("images/bg2.png");
     background-size: 100%;
     background-repeat: no-repeat;
     padding: 0;
